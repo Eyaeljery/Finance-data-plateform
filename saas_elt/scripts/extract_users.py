@@ -43,7 +43,12 @@ def main(ds: str, out_dir: Path, state_path: Path, n: int | None) -> None:
 
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"users_{ds}.json"
+    if out_path.exists():
+     print(f"[extract_users] ds={ds} already exists -> skip ({out_path})")
+     return
+
     out_path.write_text(json.dumps(users, indent=2), encoding="utf-8")
+
 
     # update state
     state["last_user_id"] = last_id + n
