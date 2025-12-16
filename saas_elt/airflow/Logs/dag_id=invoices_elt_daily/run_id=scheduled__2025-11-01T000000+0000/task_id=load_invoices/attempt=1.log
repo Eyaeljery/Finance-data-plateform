@@ -1,0 +1,22 @@
+[2025-12-16T17:41:12.565+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-12-16T17:41:12.753+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: invoices_elt_daily.load_invoices scheduled__2025-11-01T00:00:00+00:00 [queued]>
+[2025-12-16T17:41:12.785+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: invoices_elt_daily.load_invoices scheduled__2025-11-01T00:00:00+00:00 [queued]>
+[2025-12-16T17:41:12.793+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-12-16T17:41:13.193+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): load_invoices> on 2025-11-01 00:00:00+00:00
+[2025-12-16T17:41:13.221+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'invoices_elt_daily', 'load_invoices', 'scheduled__2025-11-01T00:00:00+00:00', '--job-id', '258', '--raw', '--subdir', 'DAGS_FOLDER/invoices_elt_daily.py', '--cfg-path', '/tmp/tmp02jggoj8']
+[2025-12-16T17:41:13.226+0000] {standard_task_runner.py:91} INFO - Job 258: Subtask load_invoices
+[2025-12-16T17:41:13.229+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=718) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-12-16T17:41:13.235+0000] {standard_task_runner.py:64} INFO - Started process 740 to run task
+[2025-12-16T17:41:13.461+0000] {task_command.py:426} INFO - Running <TaskInstance: invoices_elt_daily.load_invoices scheduled__2025-11-01T00:00:00+00:00 [running]> on host be068e76f4a7
+[2025-12-16T17:41:13.880+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='invoices_elt_daily' AIRFLOW_CTX_TASK_ID='load_invoices' AIRFLOW_CTX_EXECUTION_DATE='2025-11-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-01T00:00:00+00:00'
+[2025-12-16T17:41:13.909+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-12-16T17:41:13.979+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-12-16T17:41:13.998+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python /opt/***/scripts/load_invoices.py --ds 2025-11-01']
+[2025-12-16T17:41:14.061+0000] {subprocess.py:86} INFO - Output:
+[2025-12-16T17:41:15.527+0000] {subprocess.py:93} INFO - [load_invoices] ds=2025-11-01 inserted=5
+[2025-12-16T17:41:15.574+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-12-16T17:41:15.576+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-12-16T17:41:15.725+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=invoices_elt_daily, task_id=load_invoices, run_id=scheduled__2025-11-01T00:00:00+00:00, execution_date=20251101T000000, start_date=20251216T174112, end_date=20251216T174115
+[2025-12-16T17:41:15.926+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-12-16T17:41:16.012+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-12-16T17:41:16.022+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

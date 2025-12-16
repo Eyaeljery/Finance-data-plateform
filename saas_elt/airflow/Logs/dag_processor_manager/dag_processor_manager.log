@@ -630,3 +630,2218 @@ File Path                                       PID  Runtime      # DAGs    # Er
 /opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:02:47
 /opt/airflow/dags/plans_elt_daily.py            277  0.01s             1           0  0.16s           2025-12-16T16:02:46
 ================================================================================
+[2025-12-16T16:03:47.649+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    289  0.02s             1           0  0.19s           2025-12-16T16:03:17
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T16:03:17
+/opt/airflow/dags/plans_elt_daily.py            292  0.01s             1           0  0.16s           2025-12-16T16:03:17
+================================================================================
+[2025-12-16T16:04:18.093+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    304  0.02s             1           0  0.19s           2025-12-16T16:03:47
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T16:03:47
+/opt/airflow/dags/plans_elt_daily.py            307  0.01s             1           0  0.16s           2025-12-16T16:03:47
+================================================================================
+[2025-12-16T16:04:48.519+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    319  0.02s             1           0  0.18s           2025-12-16T16:04:18
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T16:04:18
+/opt/airflow/dags/plans_elt_daily.py            322  0.01s             1           0  0.14s           2025-12-16T16:04:18
+================================================================================
+[2025-12-16T16:05:14.882+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T16:05:14.925+0000] {manager.py:740} INFO - There are 3 files in /opt/airflow/dags
+[2025-12-16T16:05:19.025+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    334  0.02s             1           0  0.19s           2025-12-16T16:04:48
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T16:04:48
+/opt/airflow/dags/plans_elt_daily.py            337  0.01s             1           0  0.15s           2025-12-16T16:04:48
+================================================================================
+[2025-12-16T16:05:49.493+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    349  0.02s             1           0  0.22s           2025-12-16T16:05:19
+/opt/airflow/dags/plans_elt_daily.py            352  0.01s             1           0  0.18s           2025-12-16T16:05:19
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:05:19
+================================================================================
+[2025-12-16T16:06:19.949+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    364  0.02s             1           0  0.18s           2025-12-16T16:05:49
+/opt/airflow/dags/plans_elt_daily.py            367  0.01s             1           0  0.16s           2025-12-16T16:05:49
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:05:49
+================================================================================
+[2025-12-16T16:06:50.397+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    379  0.02s             1           0  0.19s           2025-12-16T16:06:20
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:06:20
+/opt/airflow/dags/plans_elt_daily.py            382  0.01s             1           0  0.15s           2025-12-16T16:06:20
+================================================================================
+[2025-12-16T16:07:20.846+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    394  0.02s             1           0  0.18s           2025-12-16T16:06:50
+/opt/airflow/dags/plans_elt_daily.py            397  0.01s             1           0  0.17s           2025-12-16T16:06:50
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:06:50
+================================================================================
+[2025-12-16T16:07:51.281+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    409  0.02s             1           0  0.19s           2025-12-16T16:07:21
+/opt/airflow/dags/plans_elt_daily.py            412  0.01s             1           0  0.16s           2025-12-16T16:07:20
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.14s           2025-12-16T16:07:21
+================================================================================
+[2025-12-16T16:08:21.729+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            427  0.01s             1           0  0.18s           2025-12-16T16:07:51
+/opt/airflow/dags/subscriptions_elt_daily.py    424  0.02s             1           0  0.18s           2025-12-16T16:07:51
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:07:51
+================================================================================
+[2025-12-16T16:08:52.177+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    439  0.02s             1           0  0.18s           2025-12-16T16:08:21
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:08:22
+/opt/airflow/dags/plans_elt_daily.py            442  0.01s             1           0  0.14s           2025-12-16T16:08:21
+================================================================================
+[2025-12-16T16:09:22.653+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            457  0.01s             1           0  0.18s           2025-12-16T16:08:52
+/opt/airflow/dags/subscriptions_elt_daily.py    454  0.02s             1           0  0.18s           2025-12-16T16:08:52
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:08:52
+================================================================================
+[2025-12-16T16:09:53.123+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    469  0.02s             1           0  0.16s           2025-12-16T16:09:22
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:09:22
+/opt/airflow/dags/plans_elt_daily.py            472  0.01s             1           0  0.15s           2025-12-16T16:09:22
+================================================================================
+[2025-12-16T16:10:15.491+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T16:10:15.534+0000] {manager.py:740} INFO - There are 3 files in /opt/airflow/dags
+[2025-12-16T16:10:23.641+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    484  0.03s             1           0  0.18s           2025-12-16T16:09:53
+/opt/airflow/dags/plans_elt_daily.py            487  0.01s             1           0  0.16s           2025-12-16T16:09:53
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:09:53
+================================================================================
+[2025-12-16T16:10:54.128+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            502  0.01s             1           0  0.20s           2025-12-16T16:10:23
+/opt/airflow/dags/subscriptions_elt_daily.py    499  0.02s             1           0  0.20s           2025-12-16T16:10:23
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:10:23
+================================================================================
+[2025-12-16T16:11:24.607+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    514  0.02s             1           0  0.19s           2025-12-16T16:10:54
+/opt/airflow/dags/plans_elt_daily.py            517  0.01s             1           0  0.18s           2025-12-16T16:10:54
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:10:54
+================================================================================
+[2025-12-16T16:11:55.056+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    529  0.02s             1           0  0.19s           2025-12-16T16:11:24
+/opt/airflow/dags/plans_elt_daily.py            532  0.01s             1           0  0.16s           2025-12-16T16:11:24
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:11:24
+================================================================================
+[2025-12-16T16:12:25.541+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    544  0.03s             1           0  0.18s           2025-12-16T16:11:55
+/opt/airflow/dags/plans_elt_daily.py            547  0.01s             1           0  0.17s           2025-12-16T16:11:55
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:11:55
+================================================================================
+[2025-12-16T16:12:56.002+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    559  0.02s             1           0  0.20s           2025-12-16T16:12:25
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:12:25
+/opt/airflow/dags/plans_elt_daily.py            562  0.01s             1           0  0.16s           2025-12-16T16:12:25
+================================================================================
+[2025-12-16T16:13:26.485+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.34s           2025-12-16T16:12:56
+/opt/airflow/dags/subscriptions_elt_daily.py    574  0.02s             1           0  0.20s           2025-12-16T16:12:56
+/opt/airflow/dags/plans_elt_daily.py            577  0.01s             1           0  0.16s           2025-12-16T16:12:56
+================================================================================
+[2025-12-16T16:13:57.046+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    589  0.02s             1           0  0.31s           2025-12-16T16:13:26
+/opt/airflow/dags/plans_elt_daily.py            592  0.01s             1           0  0.23s           2025-12-16T16:13:26
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.21s           2025-12-16T16:13:26
+================================================================================
+[2025-12-16T16:14:27.529+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    604  0.02s             1           0  0.20s           2025-12-16T16:13:57
+/opt/airflow/dags/plans_elt_daily.py            607  0.01s             1           0  0.16s           2025-12-16T16:13:57
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:13:57
+================================================================================
+[2025-12-16T16:14:57.968+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            622  0.01s             1           0  0.16s           2025-12-16T16:14:27
+/opt/airflow/dags/subscriptions_elt_daily.py    619  0.02s             1           0  0.16s           2025-12-16T16:14:27
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:14:27
+================================================================================
+[2025-12-16T16:15:16.302+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T16:15:16.455+0000] {manager.py:740} INFO - There are 3 files in /opt/airflow/dags
+[2025-12-16T16:15:28.644+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    634  0.02s             1           0  0.19s           2025-12-16T16:14:58
+/opt/airflow/dags/plans_elt_daily.py            637  0.01s             1           0  0.16s           2025-12-16T16:14:58
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:14:58
+================================================================================
+[2025-12-16T16:15:59.090+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            652  0.01s             1           0  0.17s           2025-12-16T16:15:28
+/opt/airflow/dags/subscriptions_elt_daily.py    649  0.02s             1           0  0.16s           2025-12-16T16:15:28
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:15:28
+================================================================================
+[2025-12-16T16:16:29.556+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    664  0.02s             1           0  0.18s           2025-12-16T16:15:59
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:15:59
+/opt/airflow/dags/plans_elt_daily.py            667  0.01s             1           0  0.15s           2025-12-16T16:15:59
+================================================================================
+[2025-12-16T16:17:00.044+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    679  0.02s             1           0  0.19s           2025-12-16T16:16:29
+/opt/airflow/dags/plans_elt_daily.py            682  0.01s             1           0  0.17s           2025-12-16T16:16:29
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:16:29
+================================================================================
+[2025-12-16T16:17:30.489+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            697  0.01s             1           0  0.16s           2025-12-16T16:17:00
+/opt/airflow/dags/subscriptions_elt_daily.py    694  0.02s             1           0  0.16s           2025-12-16T16:17:00
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:17:00
+================================================================================
+[2025-12-16T16:18:00.940+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    709  0.02s             1           0  0.18s           2025-12-16T16:17:30
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:17:30
+/opt/airflow/dags/plans_elt_daily.py            712  0.01s             1           0  0.14s           2025-12-16T16:17:30
+================================================================================
+[2025-12-16T16:18:31.403+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    724  0.02s             1           0  0.19s           2025-12-16T16:18:01
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:18:01
+/opt/airflow/dags/plans_elt_daily.py            727  0.01s             1           0  0.16s           2025-12-16T16:18:01
+================================================================================
+[2025-12-16T16:19:01.849+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            742  0.01s             1           0  0.16s           2025-12-16T16:18:31
+/opt/airflow/dags/subscriptions_elt_daily.py    739  0.02s             1           0  0.16s           2025-12-16T16:18:31
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:18:31
+================================================================================
+[2025-12-16T16:19:32.288+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.25s           2025-12-16T16:19:02
+/opt/airflow/dags/subscriptions_elt_daily.py    754  0.02s             1           0  0.18s           2025-12-16T16:19:02
+/opt/airflow/dags/plans_elt_daily.py            757  0.01s             1           0  0.14s           2025-12-16T16:19:01
+================================================================================
+[2025-12-16T16:20:02.745+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            772  0.01s             1           0  0.17s           2025-12-16T16:19:32
+/opt/airflow/dags/subscriptions_elt_daily.py    769  0.02s             1           0  0.16s           2025-12-16T16:19:32
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:19:32
+================================================================================
+[2025-12-16T16:20:17.037+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T16:20:17.137+0000] {manager.py:740} INFO - There are 3 files in /opt/airflow/dags
+[2025-12-16T16:20:33.339+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    784  0.02s             1           0  0.19s           2025-12-16T16:20:02
+/opt/airflow/dags/plans_elt_daily.py            787  0.01s             1           0  0.16s           2025-12-16T16:20:02
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:20:03
+================================================================================
+[2025-12-16T16:21:03.806+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    799  0.02s             1           0  0.19s           2025-12-16T16:20:33
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:20:33
+/opt/airflow/dags/plans_elt_daily.py            802  0.01s             1           0  0.16s           2025-12-16T16:20:33
+================================================================================
+[2025-12-16T16:21:34.261+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    814  0.02s             1           0  0.18s           2025-12-16T16:21:03
+/opt/airflow/dags/plans_elt_daily.py            817  0.01s             1           0  0.16s           2025-12-16T16:21:03
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:21:04
+================================================================================
+[2025-12-16T16:22:04.706+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:21:34
+/opt/airflow/dags/subscriptions_elt_daily.py    829  0.02s             1           0  0.16s           2025-12-16T16:21:34
+/opt/airflow/dags/plans_elt_daily.py            832  0.01s             1           0  0.15s           2025-12-16T16:21:34
+================================================================================
+[2025-12-16T16:22:35.185+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            847  0.01s             1           0  0.17s           2025-12-16T16:22:04
+/opt/airflow/dags/subscriptions_elt_daily.py    844  0.03s             1           0  0.17s           2025-12-16T16:22:04
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:22:05
+================================================================================
+[2025-12-16T16:23:05.662+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    859  0.02s             1           0  0.21s           2025-12-16T16:22:35
+/opt/airflow/dags/plans_elt_daily.py            862  0.01s             1           0  0.18s           2025-12-16T16:22:35
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T16:22:35
+================================================================================
+[2025-12-16T16:23:36.138+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    874  0.02s             1           0  0.18s           2025-12-16T16:23:05
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:23:05
+/opt/airflow/dags/plans_elt_daily.py            877  0.01s             1           0  0.15s           2025-12-16T16:23:05
+================================================================================
+[2025-12-16T16:24:06.582+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    889  0.02s             1           0  0.17s           2025-12-16T16:23:36
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:23:36
+/opt/airflow/dags/plans_elt_daily.py            892  0.01s             1           0  0.15s           2025-12-16T16:23:36
+================================================================================
+[2025-12-16T16:24:37.096+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.32s           2025-12-16T16:24:07
+/opt/airflow/dags/subscriptions_elt_daily.py    904  0.04s             1           0  0.19s           2025-12-16T16:24:06
+/opt/airflow/dags/plans_elt_daily.py            907  0.01s             1           0  0.16s           2025-12-16T16:24:06
+================================================================================
+[2025-12-16T16:25:07.622+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    919  0.02s             1           0  0.27s           2025-12-16T16:24:37
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.24s           2025-12-16T16:24:37
+/opt/airflow/dags/plans_elt_daily.py            922  0.01s             1           0  0.20s           2025-12-16T16:24:37
+================================================================================
+[2025-12-16T16:25:17.868+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T16:25:17.918+0000] {manager.py:740} INFO - There are 3 files in /opt/airflow/dags
+[2025-12-16T16:25:38.188+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    934  0.03s             1           0  0.17s           2025-12-16T16:25:07
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:25:07
+/opt/airflow/dags/plans_elt_daily.py            937  0.01s             1           0  0.15s           2025-12-16T16:25:07
+================================================================================
+[2025-12-16T16:26:08.673+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    949  0.03s             1           0  0.21s           2025-12-16T16:25:38
+/opt/airflow/dags/plans_elt_daily.py            952  0.01s             1           0  0.18s           2025-12-16T16:25:38
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T16:25:38
+================================================================================
+[2025-12-16T16:26:39.167+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    964  0.02s             1           0  0.20s           2025-12-16T16:26:08
+/opt/airflow/dags/plans_elt_daily.py            967  0.01s             1           0  0.17s           2025-12-16T16:26:08
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:26:08
+================================================================================
+[2025-12-16T16:27:09.640+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    979  0.02s             1           0  0.20s           2025-12-16T16:26:39
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T16:26:39
+/opt/airflow/dags/plans_elt_daily.py            982  0.01s             1           0  0.16s           2025-12-16T16:26:39
+================================================================================
+[2025-12-16T16:27:40.109+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            997  0.01s             1           0  0.17s           2025-12-16T16:27:09
+/opt/airflow/dags/subscriptions_elt_daily.py    994  0.02s             1           0  0.17s           2025-12-16T16:27:09
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:27:09
+================================================================================
+[2025-12-16T16:28:10.576+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1009  0.02s             1           0  0.20s           2025-12-16T16:27:40
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T16:27:40
+/opt/airflow/dags/plans_elt_daily.py           1012  0.01s             1           0  0.16s           2025-12-16T16:27:40
+================================================================================
+[2025-12-16T16:28:41.029+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1024  0.02s             1           0  0.18s           2025-12-16T16:28:10
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:28:10
+/opt/airflow/dags/plans_elt_daily.py           1027  0.01s             1           0  0.15s           2025-12-16T16:28:10
+================================================================================
+[2025-12-16T16:29:11.490+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1039  0.02s             1           0  0.16s           2025-12-16T16:28:41
+/opt/airflow/dags/plans_elt_daily.py           1042  0.01s             1           0  0.16s           2025-12-16T16:28:41
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:28:41
+================================================================================
+[2025-12-16T16:29:41.961+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1054  0.02s             1           0  0.19s           2025-12-16T16:29:11
+/opt/airflow/dags/plans_elt_daily.py           1057  0.01s             1           0  0.16s           2025-12-16T16:29:11
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:29:11
+================================================================================
+[2025-12-16T16:30:12.443+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py           1072  0.01s             1           0  0.18s           2025-12-16T16:29:42
+/opt/airflow/dags/subscriptions_elt_daily.py   1069  0.02s             1           0  0.18s           2025-12-16T16:29:42
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:29:42
+================================================================================
+[2025-12-16T16:30:18.672+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T16:30:18.718+0000] {manager.py:740} INFO - There are 3 files in /opt/airflow/dags
+[2025-12-16T16:30:42.989+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1084  0.02s             1           0  0.19s           2025-12-16T16:30:12
+/opt/airflow/dags/plans_elt_daily.py           1087  0.01s             1           0  0.16s           2025-12-16T16:30:12
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:30:12
+================================================================================
+[2025-12-16T16:31:13.479+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1099  0.02s             1           0  0.20s           2025-12-16T16:30:43
+/opt/airflow/dags/plans_elt_daily.py           1102  0.01s             1           0  0.16s           2025-12-16T16:30:43
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:30:43
+================================================================================
+[2025-12-16T16:31:43.941+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py           1117  0.01s             1           0  0.17s           2025-12-16T16:31:13
+/opt/airflow/dags/subscriptions_elt_daily.py   1114  0.02s             1           0  0.17s           2025-12-16T16:31:13
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:31:13
+================================================================================
+[2025-12-16T16:32:14.419+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py           1132  0.01s             1           0  0.18s           2025-12-16T16:31:44
+/opt/airflow/dags/subscriptions_elt_daily.py   1129  0.02s             1           0  0.18s           2025-12-16T16:31:44
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:31:44
+================================================================================
+[2025-12-16T16:32:44.903+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1144  0.02s             1           0  0.18s           2025-12-16T16:32:14
+/opt/airflow/dags/plans_elt_daily.py           1147  0.01s             1           0  0.16s           2025-12-16T16:32:14
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:32:14
+================================================================================
+[2025-12-16T16:33:15.387+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1159  0.02s             1           0  0.18s           2025-12-16T16:32:45
+/opt/airflow/dags/plans_elt_daily.py           1162  0.01s             1           0  0.17s           2025-12-16T16:32:45
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:32:45
+================================================================================
+[2025-12-16T16:33:45.851+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1174  0.02s             1           0  0.17s           2025-12-16T16:33:15
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:33:15
+/opt/airflow/dags/plans_elt_daily.py           1177  0.01s             1           0  0.16s           2025-12-16T16:33:15
+================================================================================
+[2025-12-16T16:34:16.309+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1189  0.02s             1           0  0.17s           2025-12-16T16:33:45
+/opt/airflow/dags/plans_elt_daily.py           1192  0.01s             1           0  0.15s           2025-12-16T16:33:45
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:33:46
+================================================================================
+[2025-12-16T16:34:46.820+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py           1207  0.01s             1           0  0.20s           2025-12-16T16:34:16
+/opt/airflow/dags/subscriptions_elt_daily.py   1204  0.02s             1           0  0.20s           2025-12-16T16:34:16
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T16:34:16
+================================================================================
+[2025-12-16T16:35:17.285+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py   1219  0.02s             1           0  0.17s           2025-12-16T16:34:46
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T16:34:47
+/opt/airflow/dags/plans_elt_daily.py           1222  0.01s             1           0  0.15s           2025-12-16T16:34:46
+================================================================================
+[2025-12-16T16:35:18.809+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T16:35:18.852+0000] {manager.py:740} INFO - There are 3 files in /opt/airflow/dags
+[2025-12-16T16:59:55.614+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T16:59:55.674+0000] {manager.py:740} INFO - There are 3 files in /opt/airflow/dags
+[2025-12-16T16:59:59.162+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.24s           2025-12-16T16:59:55
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.20s           2025-12-16T16:59:55
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T16:59:56
+================================================================================
+[2025-12-16T17:00:29.494+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.22s           2025-12-16T17:00:26
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.18s           2025-12-16T17:00:26
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:00:26
+================================================================================
+[2025-12-16T17:00:59.977+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:00:56
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:00:56
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:00:57
+================================================================================
+[2025-12-16T17:01:30.473+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:01:27
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:01:27
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:01:27
+================================================================================
+[2025-12-16T17:02:00.956+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.18s           2025-12-16T17:01:57
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:01:57
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:01:58
+================================================================================
+[2025-12-16T17:02:31.455+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:02:28
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:02:28
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:02:28
+================================================================================
+[2025-12-16T17:03:01.971+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:02:58
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:02:59
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:02:58
+================================================================================
+[2025-12-16T17:03:32.490+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.22s           2025-12-16T17:03:29
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.18s           2025-12-16T17:03:29
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:03:29
+================================================================================
+[2025-12-16T17:04:03.005+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:03:59
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:04:00
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:03:59
+================================================================================
+[2025-12-16T17:04:33.524+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:04:30
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:04:30
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:04:30
+================================================================================
+[2025-12-16T17:04:55.727+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:04:55.779+0000] {manager.py:740} INFO - There are 3 files in /opt/airflow/dags
+[2025-12-16T17:05:04.134+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.22s           2025-12-16T17:05:01
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.19s           2025-12-16T17:05:01
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:05:01
+================================================================================
+[2025-12-16T17:05:34.651+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.19s           2025-12-16T17:05:31
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.19s           2025-12-16T17:05:31
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:05:31
+================================================================================
+[2025-12-16T17:06:05.281+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.36s           2025-12-16T17:06:02
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.30s           2025-12-16T17:06:02
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.26s           2025-12-16T17:06:02
+================================================================================
+[2025-12-16T17:06:35.847+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.26s           2025-12-16T17:06:32
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.21s           2025-12-16T17:06:32
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:06:32
+================================================================================
+[2025-12-16T17:07:06.325+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:07:03
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:07:03
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T17:07:03
+================================================================================
+[2025-12-16T17:07:36.857+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.21s           2025-12-16T17:07:33
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.19s           2025-12-16T17:07:34
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:07:33
+================================================================================
+[2025-12-16T17:08:07.388+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:08:04
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:08:04
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:08:04
+================================================================================
+[2025-12-16T17:08:37.912+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.22s           2025-12-16T17:08:34
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:08:35
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.18s           2025-12-16T17:08:34
+================================================================================
+[2025-12-16T17:09:08.431+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.20s           2025-12-16T17:09:05
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:09:05
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.19s           2025-12-16T17:09:05
+================================================================================
+[2025-12-16T17:09:38.936+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.19s           2025-12-16T17:09:35
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:09:35
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:09:36
+================================================================================
+[2025-12-16T17:09:56.080+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:09:56.140+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:10:09.602+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.33s           2025-12-16T17:09:56
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:10:06
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:10:06
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:10:06
+================================================================================
+[2025-12-16T17:10:40.101+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-12-16T17:10:51.442+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-12-16T17:10:51.443+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-12-16T17:10:51.445+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-12-16T17:10:51.446+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:10:51.500+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:10:51.615+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/invoices_elt_daily.py         172  0.06s             0           0
+/opt/airflow/dags/plans_elt_daily.py                                   0           0
+/opt/airflow/dags/subscriptions_elt_daily.py    175  0.05s             0           0
+/opt/airflow/dags/users_elt_daily.py                                   0           0
+================================================================================
+[2025-12-16T17:11:22.515+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         192  0.08s             1           0  0.27s           2025-12-16T17:10:51
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.24s           2025-12-16T17:10:52
+/opt/airflow/dags/subscriptions_elt_daily.py    195  0.02s             1           0  0.21s           2025-12-16T17:10:51
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:10:52
+================================================================================
+[2025-12-16T17:11:26.706+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-12-16T17:11:38.240+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-12-16T17:11:38.243+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-12-16T17:11:38.245+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-12-16T17:11:38.246+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:11:38.309+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:11:38.443+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/invoices_elt_daily.py         173  0.07s             0           0
+/opt/airflow/dags/plans_elt_daily.py                                   0           0
+/opt/airflow/dags/subscriptions_elt_daily.py    176  0.06s             0           0
+/opt/airflow/dags/users_elt_daily.py                                   0           0
+================================================================================
+[2025-12-16T17:12:09.133+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    196  0.01s             1           0  0.20s           2025-12-16T17:11:38
+/opt/airflow/dags/invoices_elt_daily.py         193  0.02s             1           0  0.20s           2025-12-16T17:11:38
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:11:38
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:11:38
+================================================================================
+[2025-12-16T17:12:39.846+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:12:09
+/opt/airflow/dags/subscriptions_elt_daily.py    216  0.01s             1           0  0.17s           2025-12-16T17:12:09
+/opt/airflow/dags/invoices_elt_daily.py         213  0.02s             1           0  0.17s           2025-12-16T17:12:09
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:12:09
+================================================================================
+[2025-12-16T17:13:10.634+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py    268  0.02s             1           0  0.17s           2025-12-16T17:12:40
+/opt/airflow/dags/invoices_elt_daily.py         264  0.07s             1           0  0.16s           2025-12-16T17:12:39
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:12:40
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:12:40
+================================================================================
+[2025-12-16T17:13:40.949+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.48s           2025-12-16T17:13:11
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.47s           2025-12-16T17:13:12
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.44s           2025-12-16T17:13:11
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.43s           2025-12-16T17:13:10
+================================================================================
+[2025-12-16T17:14:11.097+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.27s           2025-12-16T17:13:42
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:13:41
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:13:41
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:13:41
+================================================================================
+[2025-12-16T17:14:41.692+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.34s           2025-12-16T17:14:12
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.21s           2025-12-16T17:14:12
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.20s           2025-12-16T17:14:12
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:14:13
+================================================================================
+[2025-12-16T17:15:12.283+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.25s           2025-12-16T17:14:42
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.23s           2025-12-16T17:14:42
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.21s           2025-12-16T17:14:43
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:14:44
+================================================================================
+[2025-12-16T17:15:42.961+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:15:14
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:15:13
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.16s           2025-12-16T17:15:13
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:15:13
+================================================================================
+[2025-12-16T17:16:13.658+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:15:44
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:15:44
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:15:45
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:15:44
+================================================================================
+[2025-12-16T17:16:38.259+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:16:38.314+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:16:44.311+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.16s           2025-12-16T17:16:14
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:16:16
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.15s           2025-12-16T17:16:14
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T17:16:14
+================================================================================
+[2025-12-16T17:17:14.983+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:16:45
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.16s           2025-12-16T17:16:45
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:16:46
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:16:45
+================================================================================
+[2025-12-16T17:17:45.662+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:17:16
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.16s           2025-12-16T17:17:16
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:17:17
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:17:16
+================================================================================
+[2025-12-16T17:18:16.326+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:17:46
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:17:48
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:17:46
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T17:17:47
+================================================================================
+[2025-12-16T17:18:47.007+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:18:17
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:18:17
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:18:18
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:18:17
+================================================================================
+[2025-12-16T17:19:17.676+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.18s           2025-12-16T17:18:48
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:18:48
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:18:49
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:18:48
+================================================================================
+[2025-12-16T17:19:48.349+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:19:18
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.16s           2025-12-16T17:19:18
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:19:20
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:19:19
+================================================================================
+[2025-12-16T17:20:19.034+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:19:49
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:19:49
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:19:50
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:19:49
+================================================================================
+[2025-12-16T17:20:49.695+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:20:20
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:20:20
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:20:21
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T17:20:20
+================================================================================
+[2025-12-16T17:21:20.383+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.22s           2025-12-16T17:20:52
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.18s           2025-12-16T17:20:50
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T17:20:50
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:20:51
+================================================================================
+[2025-12-16T17:21:38.937+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:21:39.003+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:21:51.147+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.33s           2025-12-16T17:21:22
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:21:21
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:21:21
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:21:21
+================================================================================
+[2025-12-16T17:22:21.856+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:21:52
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:21:52
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.19s           2025-12-16T17:21:53
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:21:52
+================================================================================
+[2025-12-16T17:22:52.535+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.28s           2025-12-16T17:22:23
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.27s           2025-12-16T17:22:23
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.26s           2025-12-16T17:22:23
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:22:24
+================================================================================
+[2025-12-16T17:23:23.252+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.19s           2025-12-16T17:22:53
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T17:22:53
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:22:54
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:22:53
+================================================================================
+[2025-12-16T17:23:53.962+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.18s           2025-12-16T17:23:24
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:23:24
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:23:25
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T17:23:24
+================================================================================
+[2025-12-16T17:24:24.655+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.19s           2025-12-16T17:23:55
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:23:55
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:23:56
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:23:55
+================================================================================
+[2025-12-16T17:24:55.208+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.19s           2025-12-16T17:24:25
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:24:25
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:24:27
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.18s           2025-12-16T17:24:26
+================================================================================
+[2025-12-16T17:25:25.883+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:24:57
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.18s           2025-12-16T17:24:56
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:24:56
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:24:56
+================================================================================
+[2025-12-16T17:25:56.578+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.18s           2025-12-16T17:25:27
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:25:27
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:25:28
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T17:25:27
+================================================================================
+[2025-12-16T17:26:27.265+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:25:57
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:25:57
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:25:58
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:25:57
+================================================================================
+[2025-12-16T17:26:39.763+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:26:39.821+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:26:58.038+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.19s           2025-12-16T17:26:28
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T17:26:28
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:26:29
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:26:28
+================================================================================
+[2025-12-16T17:27:28.747+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.21s           2025-12-16T17:26:59
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.21s           2025-12-16T17:26:59
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.19s           2025-12-16T17:27:00
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:26:59
+================================================================================
+[2025-12-16T17:27:59.420+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:27:31
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:27:29
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:27:29
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T17:27:30
+================================================================================
+[2025-12-16T17:28:30.076+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:28:01
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.15s           2025-12-16T17:28:00
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.15s           2025-12-16T17:28:00
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T17:28:00
+================================================================================
+[2025-12-16T17:29:00.791+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.21s           2025-12-16T17:28:31
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:28:31
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:28:32
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:28:31
+================================================================================
+[2025-12-16T17:29:31.523+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.32s           2025-12-16T17:29:03
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:29:02
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.20s           2025-12-16T17:29:02
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:29:02
+================================================================================
+[2025-12-16T17:30:02.237+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.19s           2025-12-16T17:29:33
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.19s           2025-12-16T17:29:32
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T17:29:32
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:29:32
+================================================================================
+[2025-12-16T17:30:33.062+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.30s           2025-12-16T17:30:03
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.30s           2025-12-16T17:30:03
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:30:04
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:30:03
+================================================================================
+[2025-12-16T17:31:03.770+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.21s           2025-12-16T17:30:34
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.19s           2025-12-16T17:30:35
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T17:30:34
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:30:34
+================================================================================
+[2025-12-16T17:31:33.991+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.29s           2025-12-16T17:31:22
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.25s           2025-12-16T17:31:05
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.19s           2025-12-16T17:31:05
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:31:05
+================================================================================
+[2025-12-16T17:31:40.234+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:31:40.384+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:32:04.791+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.39s           2025-12-16T17:31:36
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.35s           2025-12-16T17:31:36
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.22s           2025-12-16T17:31:53
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.21s           2025-12-16T17:31:36
+================================================================================
+[2025-12-16T17:32:34.985+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.29s           2025-12-16T17:32:17
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.26s           2025-12-16T17:32:34
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.22s           2025-12-16T17:32:07
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:32:24
+================================================================================
+[2025-12-16T17:32:49.057+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-12-16T17:33:01.515+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-12-16T17:33:01.518+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-12-16T17:33:01.524+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-12-16T17:33:01.525+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:33:01.603+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:33:01.730+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/invoices_elt_daily.py         172  0.06s             0           0
+/opt/airflow/dags/plans_elt_daily.py            175  0.05s             0           0
+/opt/airflow/dags/subscriptions_elt_daily.py                           0           0
+/opt/airflow/dags/users_elt_daily.py                                   0           0
+================================================================================
+[2025-12-16T17:33:32.402+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            195  0.01s             1           0  0.18s           2025-12-16T17:33:01
+/opt/airflow/dags/invoices_elt_daily.py         192  0.02s             1           0  0.18s           2025-12-16T17:33:01
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:33:02
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:33:02
+================================================================================
+[2025-12-16T17:34:03.104+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         212  0.02s             1           0  0.19s           2025-12-16T17:33:32
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:33:32
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:33:32
+/opt/airflow/dags/plans_elt_daily.py            215  0.01s             1           0  0.16s           2025-12-16T17:33:32
+================================================================================
+[2025-12-16T17:34:33.192+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.53s           2025-12-16T17:34:03
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.39s           2025-12-16T17:34:03
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.37s           2025-12-16T17:34:03
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.21s           2025-12-16T17:34:03
+================================================================================
+[2025-12-16T17:35:03.690+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.25s           2025-12-16T17:34:34
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.25s           2025-12-16T17:34:34
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:34:34
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:34:34
+================================================================================
+[2025-12-16T17:35:34.469+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.22s           2025-12-16T17:35:04
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:35:05
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.18s           2025-12-16T17:35:04
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:35:05
+================================================================================
+[2025-12-16T17:36:05.195+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.19s           2025-12-16T17:35:35
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:35:35
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T17:35:35
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:35:36
+================================================================================
+[2025-12-16T17:36:35.920+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.19s           2025-12-16T17:36:06
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:36:06
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:36:06
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:36:06
+================================================================================
+[2025-12-16T17:37:06.661+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:36:37
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:36:37
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:36:37
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:36:37
+================================================================================
+[2025-12-16T17:37:37.386+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:37:07
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:37:08
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:37:08
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:37:07
+================================================================================
+[2025-12-16T17:38:02.001+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:38:02.057+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:38:08.165+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.18s           2025-12-16T17:37:38
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T17:37:38
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:37:38
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:37:38
+================================================================================
+[2025-12-16T17:38:38.901+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.20s           2025-12-16T17:38:09
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:38:09
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:38:09
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:38:09
+================================================================================
+[2025-12-16T17:39:09.631+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T17:38:40
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:38:40
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:38:40
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:38:40
+================================================================================
+[2025-12-16T17:39:40.332+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:39:11
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:39:10
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:39:10
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.16s           2025-12-16T17:39:10
+================================================================================
+[2025-12-16T17:40:10.908+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:39:42
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:39:42
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.16s           2025-12-16T17:39:41
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T17:39:41
+================================================================================
+[2025-12-16T17:40:41.643+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.20s           2025-12-16T17:40:13
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:40:12
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:40:13
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:40:12
+================================================================================
+[2025-12-16T17:41:12.478+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.28s           2025-12-16T17:40:44
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.26s           2025-12-16T17:40:44
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.20s           2025-12-16T17:40:42
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.18s           2025-12-16T17:40:42
+================================================================================
+[2025-12-16T17:41:42.752+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  1.63s           2025-12-16T17:41:15
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  1.01s           2025-12-16T17:41:14
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.83s           2025-12-16T17:41:15
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.80s           2025-12-16T17:41:16
+================================================================================
+[2025-12-16T17:42:12.952+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.19s           2025-12-16T17:41:46
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:41:46
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:41:45
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:41:45
+================================================================================
+[2025-12-16T17:42:43.515+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.20s           2025-12-16T17:42:16
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:42:17
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:42:16
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:42:17
+================================================================================
+[2025-12-16T17:43:02.103+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:43:02.162+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:43:14.110+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.21s           2025-12-16T17:42:46
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:42:47
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:42:47
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:42:46
+================================================================================
+[2025-12-16T17:43:44.657+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:43:17
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T17:43:17
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:43:18
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.15s           2025-12-16T17:43:18
+================================================================================
+[2025-12-16T17:44:14.251+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-12-16T17:44:26.126+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-12-16T17:44:26.128+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-12-16T17:44:26.131+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-12-16T17:44:26.133+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:44:26.203+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:44:26.338+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/invoices_elt_daily.py         172  0.07s             0           0
+/opt/airflow/dags/plans_elt_daily.py            175  0.05s             0           0
+/opt/airflow/dags/subscriptions_elt_daily.py                           0           0
+/opt/airflow/dags/users_elt_daily.py                                   0           0
+================================================================================
+[2025-12-16T17:44:57.006+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         192  0.02s             1           0  0.30s           2025-12-16T17:44:26
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:44:26
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.19s           2025-12-16T17:44:26
+/opt/airflow/dags/plans_elt_daily.py            195  0.01s             1           0  0.17s           2025-12-16T17:44:26
+================================================================================
+[2025-12-16T17:45:22.349+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-12-16T17:45:34.667+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-12-16T17:45:34.670+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-12-16T17:45:34.671+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-12-16T17:45:34.673+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:45:34.750+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:45:34.874+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/invoices_elt_daily.py         173  0.06s             0           0
+/opt/airflow/dags/plans_elt_daily.py            176  0.05s             0           0
+/opt/airflow/dags/subscriptions_elt_daily.py                           0           0
+/opt/airflow/dags/users_elt_daily.py                                   0           0
+================================================================================
+[2025-12-16T17:46:05.590+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         193  0.02s             1           0  0.31s           2025-12-16T17:45:35
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.21s           2025-12-16T17:45:35
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T17:45:35
+/opt/airflow/dags/plans_elt_daily.py            196  0.01s             1           0  0.17s           2025-12-16T17:45:35
+================================================================================
+[2025-12-16T17:46:36.299+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         213  0.02s             1           0  0.19s           2025-12-16T17:46:05
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.18s           2025-12-16T17:46:06
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:46:05
+/opt/airflow/dags/plans_elt_daily.py            216  0.01s             1           0  0.16s           2025-12-16T17:46:05
+================================================================================
+[2025-12-16T17:47:07.028+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         233  0.02s             1           0  0.20s           2025-12-16T17:46:36
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:46:36
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:46:36
+/opt/airflow/dags/plans_elt_daily.py            236  0.01s             1           0  0.16s           2025-12-16T17:46:36
+================================================================================
+[2025-12-16T17:47:37.732+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         253  0.02s             1           0  0.18s           2025-12-16T17:47:07
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:47:07
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:47:07
+/opt/airflow/dags/plans_elt_daily.py            256  0.01s             1           0  0.14s           2025-12-16T17:47:07
+================================================================================
+[2025-12-16T17:48:08.452+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         273  0.02s             1           0  0.18s           2025-12-16T17:47:37
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:47:38
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:47:38
+/opt/airflow/dags/plans_elt_daily.py            276  0.01s             1           0  0.15s           2025-12-16T17:47:37
+================================================================================
+[2025-12-16T17:48:38.997+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.18s           2025-12-16T17:48:08
+/opt/airflow/dags/invoices_elt_daily.py         293  0.02s             1           0  0.16s           2025-12-16T17:48:08
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:48:08
+/opt/airflow/dags/plans_elt_daily.py            296  0.01s             1           0  0.15s           2025-12-16T17:48:08
+================================================================================
+[2025-12-16T17:49:09.718+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         319  0.03s             1           0  0.19s           2025-12-16T17:48:39
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:48:39
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:48:39
+/opt/airflow/dags/plans_elt_daily.py            322  0.01s             1           0  0.16s           2025-12-16T17:48:39
+================================================================================
+[2025-12-16T17:49:11.070+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-12-16T17:49:22.821+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-12-16T17:49:22.823+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-12-16T17:49:22.825+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-12-16T17:49:22.827+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:49:22.895+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:49:23.018+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/invoices_elt_daily.py         172  0.06s             0           0
+/opt/airflow/dags/plans_elt_daily.py            175  0.05s             0           0
+/opt/airflow/dags/subscriptions_elt_daily.py                           0           0
+/opt/airflow/dags/users_elt_daily.py                                   0           0
+================================================================================
+[2025-12-16T17:49:53.696+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         192  0.02s             1           0  0.20s           2025-12-16T17:49:23
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:49:23
+/opt/airflow/dags/plans_elt_daily.py            195  0.01s             1           0  0.16s           2025-12-16T17:49:23
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:49:23
+================================================================================
+[2025-12-16T17:50:24.687+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.30s           2025-12-16T17:49:54
+/opt/airflow/dags/invoices_elt_daily.py         212  0.02s             1           0  0.30s           2025-12-16T17:49:53
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.29s           2025-12-16T17:49:54
+/opt/airflow/dags/plans_elt_daily.py            215  0.01s             1           0  0.29s           2025-12-16T17:49:53
+================================================================================
+[2025-12-16T17:50:55.385+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            235  0.01s             1           0  0.18s           2025-12-16T17:50:24
+/opt/airflow/dags/invoices_elt_daily.py         232  0.02s             1           0  0.18s           2025-12-16T17:50:24
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:50:25
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T17:50:25
+================================================================================
+[2025-12-16T17:51:26.143+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         252  0.02s             1           0  0.20s           2025-12-16T17:50:55
+/opt/airflow/dags/plans_elt_daily.py            255  0.01s             1           0  0.17s           2025-12-16T17:50:55
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:50:55
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:50:55
+================================================================================
+[2025-12-16T17:51:56.888+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.19s           2025-12-16T17:51:26
+/opt/airflow/dags/invoices_elt_daily.py         272  0.02s             1           0  0.19s           2025-12-16T17:51:26
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:51:26
+/opt/airflow/dags/plans_elt_daily.py            275  0.01s             1           0  0.15s           2025-12-16T17:51:26
+================================================================================
+[2025-12-16T17:52:27.581+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:51:57
+/opt/airflow/dags/plans_elt_daily.py            295  0.01s             1           0  0.16s           2025-12-16T17:51:57
+/opt/airflow/dags/invoices_elt_daily.py         292  0.02s             1           0  0.16s           2025-12-16T17:51:57
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.15s           2025-12-16T17:51:57
+================================================================================
+[2025-12-16T17:52:58.279+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         312  0.02s             1           0  0.18s           2025-12-16T17:52:27
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:52:27
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:52:28
+/opt/airflow/dags/plans_elt_daily.py            315  0.01s             1           0  0.14s           2025-12-16T17:52:27
+================================================================================
+[2025-12-16T17:53:28.996+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         332  0.02s             1           0  0.19s           2025-12-16T17:52:58
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:52:58
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:52:58
+/opt/airflow/dags/plans_elt_daily.py            335  0.01s             1           0  0.16s           2025-12-16T17:52:58
+================================================================================
+[2025-12-16T17:53:59.533+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:53:29
+/opt/airflow/dags/invoices_elt_daily.py         352  0.02s             1           0  0.16s           2025-12-16T17:53:29
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:53:29
+/opt/airflow/dags/plans_elt_daily.py            355  0.01s             1           0  0.14s           2025-12-16T17:53:29
+================================================================================
+[2025-12-16T17:54:23.132+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:54:23.195+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:54:30.322+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         372  0.02s             1           0  0.19s           2025-12-16T17:53:59
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:54:00
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:53:59
+/opt/airflow/dags/plans_elt_daily.py            375  0.01s             1           0  0.15s           2025-12-16T17:53:59
+================================================================================
+[2025-12-16T17:55:01.014+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py            395  0.01s             1           0  0.17s           2025-12-16T17:54:30
+/opt/airflow/dags/invoices_elt_daily.py         392  0.02s             1           0  0.17s           2025-12-16T17:54:30
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:54:30
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.15s           2025-12-16T17:54:30
+================================================================================
+[2025-12-16T17:55:31.704+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         412  0.02s             1           0  0.18s           2025-12-16T17:55:01
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:55:01
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T17:55:01
+/opt/airflow/dags/plans_elt_daily.py            415  0.01s             1           0  0.14s           2025-12-16T17:55:01
+================================================================================
+[2025-12-16T17:56:02.421+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         432  0.02s             1           0  0.18s           2025-12-16T17:55:31
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:55:32
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:55:32
+/opt/airflow/dags/plans_elt_daily.py            435  0.01s             1           0  0.15s           2025-12-16T17:55:31
+================================================================================
+[2025-12-16T17:56:33.118+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         452  0.02s             1           0  0.19s           2025-12-16T17:56:02
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:56:02
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:56:02
+/opt/airflow/dags/plans_elt_daily.py            455  0.01s             1           0  0.15s           2025-12-16T17:56:02
+================================================================================
+[2025-12-16T17:57:03.810+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py         472  0.02s             1           0  0.18s           2025-12-16T17:56:33
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:56:33
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:56:33
+/opt/airflow/dags/plans_elt_daily.py            475  0.01s             1           0  0.15s           2025-12-16T17:56:33
+================================================================================
+[2025-12-16T17:57:33.887+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.29s           2025-12-16T17:57:04
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.28s           2025-12-16T17:57:04
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:57:03
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:57:03
+================================================================================
+[2025-12-16T17:58:04.297+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.20s           2025-12-16T17:57:34
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:57:34
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:57:35
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:57:34
+================================================================================
+[2025-12-16T17:58:35.006+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T17:58:05
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T17:58:05
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:58:05
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T17:58:05
+================================================================================
+[2025-12-16T17:59:05.715+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.21s           2025-12-16T17:58:36
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.18s           2025-12-16T17:58:36
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T17:58:36
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.15s           2025-12-16T17:58:36
+================================================================================
+[2025-12-16T17:59:23.304+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T17:59:23.366+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T17:59:36.554+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.18s           2025-12-16T17:59:07
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:59:06
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T17:59:06
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:59:07
+================================================================================
+[2025-12-16T18:00:07.329+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.21s           2025-12-16T17:59:37
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T17:59:37
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T17:59:37
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T17:59:38
+================================================================================
+[2025-12-16T18:00:38.054+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T18:00:08
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:00:08
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:00:08
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T18:00:08
+================================================================================
+[2025-12-16T18:01:08.775+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T18:00:39
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:00:39
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.15s           2025-12-16T18:00:39
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T18:00:39
+================================================================================
+[2025-12-16T18:01:39.493+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T18:01:09
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T18:01:09
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:01:10
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:01:10
+================================================================================
+[2025-12-16T18:02:10.201+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T18:01:40
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T18:01:40
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:01:41
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T18:01:40
+================================================================================
+[2025-12-16T18:02:40.755+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:02:11
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.16s           2025-12-16T18:02:11
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.15s           2025-12-16T18:02:11
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T18:02:11
+================================================================================
+[2025-12-16T18:03:11.492+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T18:02:41
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T18:02:41
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:02:42
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.15s           2025-12-16T18:02:42
+================================================================================
+[2025-12-16T18:03:42.191+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T18:03:12
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:03:13
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:03:12
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T18:03:12
+================================================================================
+[2025-12-16T18:04:12.914+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T18:03:43
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:03:43
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:03:43
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T18:03:43
+================================================================================
+[2025-12-16T18:04:23.368+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T18:04:23.424+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T18:04:43.466+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T18:04:14
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:04:14
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.15s           2025-12-16T18:04:14
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T18:04:14
+================================================================================
+[2025-12-16T18:05:13.616+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.33s           2025-12-16T18:04:44
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.32s           2025-12-16T18:04:44
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.25s           2025-12-16T18:04:45
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:04:45
+================================================================================
+[2025-12-16T18:05:44.194+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.23s           2025-12-16T18:05:16
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T18:05:15
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T18:05:15
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.17s           2025-12-16T18:05:15
+================================================================================
+[2025-12-16T18:06:14.911+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T18:05:46
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:05:46
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.16s           2025-12-16T18:05:46
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:05:46
+================================================================================
+[2025-12-16T18:06:45.656+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.19s           2025-12-16T18:06:17
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T18:06:17
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T18:06:17
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:06:17
+================================================================================
+[2025-12-16T18:07:16.367+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.20s           2025-12-16T18:06:47
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T18:06:48
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T18:06:47
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:06:48
+================================================================================
+[2025-12-16T18:07:47.103+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.19s           2025-12-16T18:07:18
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.18s           2025-12-16T18:07:18
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T18:07:18
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T18:07:18
+================================================================================
+[2025-12-16T18:08:17.820+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.20s           2025-12-16T18:07:49
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T18:07:49
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T18:07:49
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.14s           2025-12-16T18:07:49
+================================================================================
+[2025-12-16T18:08:48.494+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T18:08:20
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.17s           2025-12-16T18:08:20
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:08:20
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:08:20
+================================================================================
+[2025-12-16T18:09:19.227+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.26s           2025-12-16T18:08:50
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.17s           2025-12-16T18:08:50
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.17s           2025-12-16T18:08:50
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.16s           2025-12-16T18:08:50
+================================================================================
+[2025-12-16T18:09:23.632+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T18:09:23.695+0000] {manager.py:740} INFO - There are 4 files in /opt/airflow/dags
+[2025-12-16T18:09:50.031+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.18s           2025-12-16T18:09:21
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.16s           2025-12-16T18:09:21
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.16s           2025-12-16T18:09:21
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.15s           2025-12-16T18:09:21
+================================================================================
+[2025-12-16T18:10:20.931+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/users_elt_daily.py                                   1           0  0.27s           2025-12-16T18:09:52
+/opt/airflow/dags/subscriptions_elt_daily.py                           1           0  0.25s           2025-12-16T18:09:52
+/opt/airflow/dags/invoices_elt_daily.py                                1           0  0.23s           2025-12-16T18:09:52
+/opt/airflow/dags/plans_elt_daily.py                                   1           0  0.22s           2025-12-16T18:09:52
+================================================================================

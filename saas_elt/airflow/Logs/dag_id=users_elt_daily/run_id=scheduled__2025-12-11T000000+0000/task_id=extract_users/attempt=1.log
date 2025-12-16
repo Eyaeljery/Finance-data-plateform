@@ -1,0 +1,44 @@
+[2025-12-16T17:31:41.517+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-12-16T17:31:41.603+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: users_elt_daily.extract_users scheduled__2025-12-11T00:00:00+00:00 [queued]>
+[2025-12-16T17:31:41.619+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: users_elt_daily.extract_users scheduled__2025-12-11T00:00:00+00:00 [queued]>
+[2025-12-16T17:31:41.621+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-12-16T17:31:41.727+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): extract_users> on 2025-12-11 00:00:00+00:00
+[2025-12-16T17:31:41.750+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=1271) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-12-16T17:31:41.749+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'users_elt_daily', 'extract_users', 'scheduled__2025-12-11T00:00:00+00:00', '--job-id', '161', '--raw', '--subdir', 'DAGS_FOLDER/users_elt_daily.py', '--cfg-path', '/tmp/tmpkx9q7g3e']
+[2025-12-16T17:31:41.755+0000] {standard_task_runner.py:64} INFO - Started process 1278 to run task
+[2025-12-16T17:31:41.757+0000] {standard_task_runner.py:91} INFO - Job 161: Subtask extract_users
+[2025-12-16T17:31:41.898+0000] {task_command.py:426} INFO - Running <TaskInstance: users_elt_daily.extract_users scheduled__2025-12-11T00:00:00+00:00 [running]> on host be068e76f4a7
+[2025-12-16T17:31:42.100+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='users_elt_daily' AIRFLOW_CTX_TASK_ID='extract_users' AIRFLOW_CTX_EXECUTION_DATE='2025-12-11T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-12-11T00:00:00+00:00'
+[2025-12-16T17:31:42.102+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-12-16T17:31:42.153+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-12-16T17:31:42.160+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python /opt/***/scripts/extract_users.py --ds 2025-12-11']
+[2025-12-16T17:31:42.196+0000] {subprocess.py:86} INFO - Output:
+[2025-12-16T17:31:42.685+0000] {subprocess.py:93} INFO - [extract_users] ds=2025-12-11 wrote=/opt/***/data/source/users/users_2025-12-11.json new_users=8 last_user_id=471
+[2025-12-16T17:31:42.711+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-12-16T17:31:42.714+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-12-16T17:31:42.778+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=users_elt_daily, task_id=extract_users, run_id=scheduled__2025-12-11T00:00:00+00:00, execution_date=20251211T000000, start_date=20251216T173141, end_date=20251216T173142
+[2025-12-16T17:31:42.948+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-12-16T17:31:42.989+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-12-16T17:31:42.993+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
+[2025-12-16T17:41:17.103+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-12-16T17:41:17.243+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: users_elt_daily.extract_users scheduled__2025-12-11T00:00:00+00:00 [queued]>
+[2025-12-16T17:41:17.273+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: users_elt_daily.extract_users scheduled__2025-12-11T00:00:00+00:00 [queued]>
+[2025-12-16T17:41:17.274+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-12-16T17:41:17.547+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): extract_users> on 2025-12-11 00:00:00+00:00
+[2025-12-16T17:41:17.594+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=806) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-12-16T17:41:17.598+0000] {standard_task_runner.py:64} INFO - Started process 826 to run task
+[2025-12-16T17:41:17.599+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'users_elt_daily', 'extract_users', 'scheduled__2025-12-11T00:00:00+00:00', '--job-id', '283', '--raw', '--subdir', 'DAGS_FOLDER/users_elt_daily.py', '--cfg-path', '/tmp/tmpo84yre95']
+[2025-12-16T17:41:17.607+0000] {standard_task_runner.py:91} INFO - Job 283: Subtask extract_users
+[2025-12-16T17:41:17.874+0000] {task_command.py:426} INFO - Running <TaskInstance: users_elt_daily.extract_users scheduled__2025-12-11T00:00:00+00:00 [running]> on host be068e76f4a7
+[2025-12-16T17:41:18.128+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='users_elt_daily' AIRFLOW_CTX_TASK_ID='extract_users' AIRFLOW_CTX_EXECUTION_DATE='2025-12-11T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-12-11T00:00:00+00:00'
+[2025-12-16T17:41:18.129+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-12-16T17:41:18.155+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-12-16T17:41:18.157+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python /opt/***/scripts/extract_users.py --ds 2025-12-11']
+[2025-12-16T17:41:18.208+0000] {subprocess.py:86} INFO - Output:
+[2025-12-16T17:41:18.717+0000] {subprocess.py:93} INFO - [extract_users] ds=2025-12-11 already exists -> skip (/opt/***/data/source/users/users_2025-12-11.json)
+[2025-12-16T17:41:18.743+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-12-16T17:41:18.747+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-12-16T17:41:18.802+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=users_elt_daily, task_id=extract_users, run_id=scheduled__2025-12-11T00:00:00+00:00, execution_date=20251211T000000, start_date=20251216T174117, end_date=20251216T174118
+[2025-12-16T17:41:18.981+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-12-16T17:41:19.037+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-12-16T17:41:19.047+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

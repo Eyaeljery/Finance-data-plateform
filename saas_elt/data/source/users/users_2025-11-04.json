@@ -1,0 +1,56 @@
+[
+  {
+    "user_id": 64,
+    "email": "user64@example.com",
+    "created_at": "2025-11-04T00:00:00+00:00",
+    "country": "ES"
+  },
+  {
+    "user_id": 65,
+    "email": "user65@example.com",
+    "created_at": "2025-11-04T00:00:00+00:00",
+    "country": "DE"
+  },
+  {
+    "user_id": 66,
+    "email": "user66@example.com",
+    "created_at": "2025-11-04T00:00:00+00:00",
+    "country": "GB"
+  },
+  {
+    "user_id": 67,
+    "email": "user67@example.com",
+    "created_at": "2025-11-04T00:00:00+00:00",
+    "country": "FR"
+  },
+  {
+    "user_id": 68,
+    "email": "user68@example.com",
+    "created_at": "2025-11-04T00:00:00+00:00",
+    "country": "DE"
+  },
+  {
+    "user_id": 69,
+    "email": "user69@example.com",
+    "created_at": "2025-11-04T00:00:00+00:00",
+    "country": "NL"
+  },
+  {
+    "user_id": 70,
+    "email": "user70@example.com",
+    "created_at": "2025-11-04T00:00:00+00:00",
+    "country": "BE"
+  },
+  {
+    "user_id": 71,
+    "email": "user71@example.com",
+    "created_at": "2025-11-04T00:00:00+00:00",
+    "country": "CA"
+  },
+  {
+    "user_id": 72,
+    "email": "user72@example.com",
+    "created_at": "2025-11-04T00:00:00+00:00",
+    "country": "CA"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "invoice_id": 2025110100000,
+    "subscription_id": 20251216000,
+    "user_id": 2,
+    "amount": 25.0,
+    "currency": "EUR",
+    "invoice_date": "2025-11-01T00:00:00+00:00",
+    "paid_at": "2025-11-01T00:00:00+00:00",
+    "status": "paid"
+  },
+  {
+    "invoice_id": 2025110100001,
+    "subscription_id": 20251216001,
+    "user_id": 3,
+    "amount": 25.0,
+    "currency": "EUR",
+    "invoice_date": "2025-11-01T00:00:00+00:00",
+    "paid_at": "2025-11-01T00:00:00+00:00",
+    "status": "paid"
+  },
+  {
+    "invoice_id": 2025110100002,
+    "subscription_id": 20251216003,
+    "user_id": 8,
+    "amount": 10.0,
+    "currency": "EUR",
+    "invoice_date": "2025-11-01T00:00:00+00:00",
+    "paid_at": "2025-11-01T00:00:00+00:00",
+    "status": "paid"
+  },
+  {
+    "invoice_id": 2025110100003,
+    "subscription_id": 20251216005,
+    "user_id": 12,
+    "amount": 10.0,
+    "currency": "EUR",
+    "invoice_date": "2025-11-01T00:00:00+00:00",
+    "paid_at": "2025-11-01T00:00:00+00:00",
+    "status": "paid"
+  },
+  {
+    "invoice_id": 2025110100004,
+    "subscription_id": 20251216006,
+    "user_id": 13,
+    "amount": 25.0,
+    "currency": "EUR",
+    "invoice_date": "2025-11-01T00:00:00+00:00",
+    "paid_at": "2025-11-01T00:00:00+00:00",
+    "status": "paid"
+  }
+]

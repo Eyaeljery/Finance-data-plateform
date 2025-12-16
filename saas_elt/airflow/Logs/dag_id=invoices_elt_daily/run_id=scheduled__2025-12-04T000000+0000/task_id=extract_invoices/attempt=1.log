@@ -1,0 +1,42 @@
+[2025-12-16T17:13:09.313+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-12-16T17:13:09.378+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: invoices_elt_daily.extract_invoices scheduled__2025-12-04T00:00:00+00:00 [queued]>
+[2025-12-16T17:13:09.393+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: invoices_elt_daily.extract_invoices scheduled__2025-12-04T00:00:00+00:00 [queued]>
+[2025-12-16T17:13:09.394+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-12-16T17:13:09.474+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): extract_invoices> on 2025-12-04 00:00:00+00:00
+[2025-12-16T17:13:09.491+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'invoices_elt_daily', 'extract_invoices', 'scheduled__2025-12-04T00:00:00+00:00', '--job-id', '64', '--raw', '--subdir', 'DAGS_FOLDER/invoices_elt_daily.py', '--cfg-path', '/tmp/tmpvb8dowmf']
+[2025-12-16T17:13:09.496+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=237) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-12-16T17:13:09.497+0000] {standard_task_runner.py:91} INFO - Job 64: Subtask extract_invoices
+[2025-12-16T17:13:09.497+0000] {standard_task_runner.py:64} INFO - Started process 246 to run task
+[2025-12-16T17:13:09.622+0000] {task_command.py:426} INFO - Running <TaskInstance: invoices_elt_daily.extract_invoices scheduled__2025-12-04T00:00:00+00:00 [running]> on host be068e76f4a7
+[2025-12-16T17:13:09.812+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='invoices_elt_daily' AIRFLOW_CTX_TASK_ID='extract_invoices' AIRFLOW_CTX_EXECUTION_DATE='2025-12-04T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-12-04T00:00:00+00:00'
+[2025-12-16T17:13:09.813+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-12-16T17:13:09.845+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-12-16T17:13:09.848+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python /opt/***/scripts/extract_invoices.py --ds 2025-12-04']
+[2025-12-16T17:13:09.874+0000] {subprocess.py:86} INFO - Output:
+[2025-12-16T17:13:10.447+0000] {subprocess.py:93} INFO - [extract_invoices] ds=2025-12-04 not billing day -> wrote empty file
+[2025-12-16T17:13:10.494+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-12-16T17:13:10.496+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-12-16T17:13:10.572+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=invoices_elt_daily, task_id=extract_invoices, run_id=scheduled__2025-12-04T00:00:00+00:00, execution_date=20251204T000000, start_date=20251216T171309, end_date=20251216T171310
+[2025-12-16T17:13:10.641+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-12-16T17:13:10.670+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
+[2025-12-16T17:41:33.247+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-12-16T17:41:33.301+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: invoices_elt_daily.extract_invoices scheduled__2025-12-04T00:00:00+00:00 [queued]>
+[2025-12-16T17:41:33.315+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: invoices_elt_daily.extract_invoices scheduled__2025-12-04T00:00:00+00:00 [queued]>
+[2025-12-16T17:41:33.316+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-12-16T17:41:33.395+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): extract_invoices> on 2025-12-04 00:00:00+00:00
+[2025-12-16T17:41:33.418+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'invoices_elt_daily', 'extract_invoices', 'scheduled__2025-12-04T00:00:00+00:00', '--job-id', '338', '--raw', '--subdir', 'DAGS_FOLDER/invoices_elt_daily.py', '--cfg-path', '/tmp/tmpr8rcolnx']
+[2025-12-16T17:41:33.420+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=983) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-12-16T17:41:33.428+0000] {standard_task_runner.py:64} INFO - Started process 991 to run task
+[2025-12-16T17:41:33.427+0000] {standard_task_runner.py:91} INFO - Job 338: Subtask extract_invoices
+[2025-12-16T17:41:33.647+0000] {task_command.py:426} INFO - Running <TaskInstance: invoices_elt_daily.extract_invoices scheduled__2025-12-04T00:00:00+00:00 [running]> on host be068e76f4a7
+[2025-12-16T17:41:34.014+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='invoices_elt_daily' AIRFLOW_CTX_TASK_ID='extract_invoices' AIRFLOW_CTX_EXECUTION_DATE='2025-12-04T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-12-04T00:00:00+00:00'
+[2025-12-16T17:41:34.019+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-12-16T17:41:34.072+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-12-16T17:41:34.077+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python /opt/***/scripts/extract_invoices.py --ds 2025-12-04']
+[2025-12-16T17:41:34.119+0000] {subprocess.py:86} INFO - Output:
+[2025-12-16T17:41:34.775+0000] {subprocess.py:93} INFO - [extract_invoices] ds=2025-12-04 already exists -> skip
+[2025-12-16T17:41:34.810+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-12-16T17:41:34.813+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-12-16T17:41:34.871+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=invoices_elt_daily, task_id=extract_invoices, run_id=scheduled__2025-12-04T00:00:00+00:00, execution_date=20251204T000000, start_date=20251216T174133, end_date=20251216T174134
+[2025-12-16T17:41:34.939+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-12-16T17:41:35.000+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,38 @@
+[
+  {
+    "user_id": 159,
+    "email": "user159@example.com",
+    "created_at": "2025-11-11T00:00:00+00:00",
+    "country": "FR"
+  },
+  {
+    "user_id": 160,
+    "email": "user160@example.com",
+    "created_at": "2025-11-11T00:00:00+00:00",
+    "country": "IT"
+  },
+  {
+    "user_id": 161,
+    "email": "user161@example.com",
+    "created_at": "2025-11-11T00:00:00+00:00",
+    "country": "CA"
+  },
+  {
+    "user_id": 162,
+    "email": "user162@example.com",
+    "created_at": "2025-11-11T00:00:00+00:00",
+    "country": "IT"
+  },
+  {
+    "user_id": 163,
+    "email": "user163@example.com",
+    "created_at": "2025-11-11T00:00:00+00:00",
+    "country": "NL"
+  },
+  {
+    "user_id": 164,
+    "email": "user164@example.com",
+    "created_at": "2025-11-11T00:00:00+00:00",
+    "country": "FR"
+  }
+]

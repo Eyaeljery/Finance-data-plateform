@@ -1,0 +1,56 @@
+[
+  {
+    "user_id": 229,
+    "email": "user229@example.com",
+    "created_at": "2025-11-18T00:00:00+00:00",
+    "country": "CA"
+  },
+  {
+    "user_id": 230,
+    "email": "user230@example.com",
+    "created_at": "2025-11-18T00:00:00+00:00",
+    "country": "BE"
+  },
+  {
+    "user_id": 231,
+    "email": "user231@example.com",
+    "created_at": "2025-11-18T00:00:00+00:00",
+    "country": "GB"
+  },
+  {
+    "user_id": 232,
+    "email": "user232@example.com",
+    "created_at": "2025-11-18T00:00:00+00:00",
+    "country": "BE"
+  },
+  {
+    "user_id": 233,
+    "email": "user233@example.com",
+    "created_at": "2025-11-18T00:00:00+00:00",
+    "country": "BE"
+  },
+  {
+    "user_id": 234,
+    "email": "user234@example.com",
+    "created_at": "2025-11-18T00:00:00+00:00",
+    "country": "DE"
+  },
+  {
+    "user_id": 235,
+    "email": "user235@example.com",
+    "created_at": "2025-11-18T00:00:00+00:00",
+    "country": "DE"
+  },
+  {
+    "user_id": 236,
+    "email": "user236@example.com",
+    "created_at": "2025-11-18T00:00:00+00:00",
+    "country": "FR"
+  },
+  {
+    "user_id": 237,
+    "email": "user237@example.com",
+    "created_at": "2025-11-18T00:00:00+00:00",
+    "country": "GB"
+  }
+]

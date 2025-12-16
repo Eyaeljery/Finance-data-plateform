@@ -4,7 +4,7 @@ from datetime import datetime
 
 with DAG(
     dag_id="users_elt_daily",
-    start_date=datetime(2025, 12, 16),
+    start_date=datetime(2025, 11, 1),
     schedule="@daily",
     catchup=True,   # important pour backfill
     tags=["saas", "raw", "elt"],

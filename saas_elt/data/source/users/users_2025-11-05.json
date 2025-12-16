@@ -1,0 +1,86 @@
+[
+  {
+    "user_id": 73,
+    "email": "user73@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "US"
+  },
+  {
+    "user_id": 74,
+    "email": "user74@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "ES"
+  },
+  {
+    "user_id": 75,
+    "email": "user75@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "ES"
+  },
+  {
+    "user_id": 76,
+    "email": "user76@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "US"
+  },
+  {
+    "user_id": 77,
+    "email": "user77@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "US"
+  },
+  {
+    "user_id": 78,
+    "email": "user78@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "GB"
+  },
+  {
+    "user_id": 79,
+    "email": "user79@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "IT"
+  },
+  {
+    "user_id": 80,
+    "email": "user80@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "NL"
+  },
+  {
+    "user_id": 81,
+    "email": "user81@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "CA"
+  },
+  {
+    "user_id": 82,
+    "email": "user82@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "DE"
+  },
+  {
+    "user_id": 83,
+    "email": "user83@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "US"
+  },
+  {
+    "user_id": 84,
+    "email": "user84@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "NL"
+  },
+  {
+    "user_id": 85,
+    "email": "user85@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "BE"
+  },
+  {
+    "user_id": 86,
+    "email": "user86@example.com",
+    "created_at": "2025-11-05T00:00:00+00:00",
+    "country": "BE"
+  }
+]

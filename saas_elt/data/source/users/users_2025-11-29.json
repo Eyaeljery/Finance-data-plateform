@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": 354,
+    "email": "user354@example.com",
+    "created_at": "2025-11-29T00:00:00+00:00",
+    "country": "FR"
+  },
+  {
+    "user_id": 355,
+    "email": "user355@example.com",
+    "created_at": "2025-11-29T00:00:00+00:00",
+    "country": "US"
+  },
+  {
+    "user_id": 356,
+    "email": "user356@example.com",
+    "created_at": "2025-11-29T00:00:00+00:00",
+    "country": "US"
+  },
+  {
+    "user_id": 357,
+    "email": "user357@example.com",
+    "created_at": "2025-11-29T00:00:00+00:00",
+    "country": "BE"
+  },
+  {
+    "user_id": 358,
+    "email": "user358@example.com",
+    "created_at": "2025-11-29T00:00:00+00:00",
+    "country": "ES"
+  }
+]
