@@ -1,0 +1,60 @@
+[2025-12-16T16:00:14.194+0000] {processor.py:161} INFO - Started process (PID=172) to work on /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:00:14.195+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/subscriptions_elt_daily.py for tasks to queue
+[2025-12-16T16:00:14.197+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:00:14.243+0000] {processor.py:840} INFO - DAG(s) 'subscriptions_elt_daily' retrieved from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:00:14.398+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.397+0000] {override.py:1858} INFO - Created Permission View: can edit on DAG:subscriptions_elt_daily
+[2025-12-16T16:00:14.410+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.410+0000] {override.py:1858} INFO - Created Permission View: can delete on DAG:subscriptions_elt_daily
+[2025-12-16T16:00:14.420+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.420+0000] {override.py:1858} INFO - Created Permission View: can read on DAG:subscriptions_elt_daily
+[2025-12-16T16:00:14.421+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.421+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:00:14.433+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.433+0000] {dag.py:3111} INFO - Creating ORM DAG for subscriptions_elt_daily
+[2025-12-16T16:00:14.445+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.444+0000] {dag.py:3947} INFO - Setting next_dagrun for subscriptions_elt_daily to 2025-12-16 00:00:00+00:00, run_after=2025-12-17 00:00:00+00:00
+[2025-12-16T16:00:14.473+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/subscriptions_elt_daily.py took 0.286 seconds
+[2025-12-16T16:00:44.807+0000] {processor.py:161} INFO - Started process (PID=187) to work on /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:00:44.809+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/subscriptions_elt_daily.py for tasks to queue
+[2025-12-16T16:00:44.813+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:44.812+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:00:44.848+0000] {processor.py:840} INFO - DAG(s) 'subscriptions_elt_daily' retrieved from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:00:44.894+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:44.894+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:00:44.930+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:44.930+0000] {dag.py:3947} INFO - Setting next_dagrun for subscriptions_elt_daily to 2025-12-16 00:00:00+00:00, run_after=2025-12-17 00:00:00+00:00
+[2025-12-16T16:00:44.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/subscriptions_elt_daily.py took 0.159 seconds
+[2025-12-16T16:01:15.269+0000] {processor.py:161} INFO - Started process (PID=214) to work on /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:01:15.271+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/subscriptions_elt_daily.py for tasks to queue
+[2025-12-16T16:01:15.273+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:15.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:01:15.300+0000] {processor.py:840} INFO - DAG(s) 'subscriptions_elt_daily' retrieved from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:01:15.337+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:15.337+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:01:15.372+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:15.372+0000] {dag.py:3947} INFO - Setting next_dagrun for subscriptions_elt_daily to 2025-12-16 00:00:00+00:00, run_after=2025-12-17 00:00:00+00:00
+[2025-12-16T16:01:15.403+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/subscriptions_elt_daily.py took 0.140 seconds
+[2025-12-16T16:01:45.784+0000] {processor.py:161} INFO - Started process (PID=229) to work on /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:01:45.786+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/subscriptions_elt_daily.py for tasks to queue
+[2025-12-16T16:01:45.790+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:45.790+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:01:45.866+0000] {processor.py:840} INFO - DAG(s) 'subscriptions_elt_daily' retrieved from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:01:45.940+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:45.939+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:01:45.973+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:45.972+0000] {dag.py:3947} INFO - Setting next_dagrun for subscriptions_elt_daily to 2025-12-16 00:00:00+00:00, run_after=2025-12-17 00:00:00+00:00
+[2025-12-16T16:01:46.006+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/subscriptions_elt_daily.py took 0.242 seconds
+[2025-12-16T16:02:16.320+0000] {processor.py:161} INFO - Started process (PID=244) to work on /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:02:16.321+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/subscriptions_elt_daily.py for tasks to queue
+[2025-12-16T16:02:16.323+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:16.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:02:16.348+0000] {processor.py:840} INFO - DAG(s) 'subscriptions_elt_daily' retrieved from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:02:16.388+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:16.388+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:02:16.416+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:16.416+0000] {dag.py:3947} INFO - Setting next_dagrun for subscriptions_elt_daily to 2025-12-16 00:00:00+00:00, run_after=2025-12-17 00:00:00+00:00
+[2025-12-16T16:02:16.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/subscriptions_elt_daily.py took 0.141 seconds
+[2025-12-16T16:02:46.758+0000] {processor.py:161} INFO - Started process (PID=259) to work on /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:02:46.759+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/subscriptions_elt_daily.py for tasks to queue
+[2025-12-16T16:02:46.761+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:46.761+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:02:46.785+0000] {processor.py:840} INFO - DAG(s) 'subscriptions_elt_daily' retrieved from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:02:46.827+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:46.826+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:02:46.854+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:46.854+0000] {dag.py:3947} INFO - Setting next_dagrun for subscriptions_elt_daily to 2025-12-16 00:00:00+00:00, run_after=2025-12-17 00:00:00+00:00
+[2025-12-16T16:02:46.911+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/subscriptions_elt_daily.py took 0.159 seconds
+[2025-12-16T16:03:17.220+0000] {processor.py:161} INFO - Started process (PID=274) to work on /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:03:17.222+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/subscriptions_elt_daily.py for tasks to queue
+[2025-12-16T16:03:17.224+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:17.224+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:03:17.252+0000] {processor.py:840} INFO - DAG(s) 'subscriptions_elt_daily' retrieved from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:03:17.291+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:17.290+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:03:17.320+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:17.320+0000] {dag.py:3947} INFO - Setting next_dagrun for subscriptions_elt_daily to 2025-12-16 00:00:00+00:00, run_after=2025-12-17 00:00:00+00:00
+[2025-12-16T16:03:17.352+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/subscriptions_elt_daily.py took 0.138 seconds
+[2025-12-16T16:03:47.656+0000] {processor.py:161} INFO - Started process (PID=289) to work on /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:03:47.657+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/subscriptions_elt_daily.py for tasks to queue
+[2025-12-16T16:03:47.660+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:47.659+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:03:47.687+0000] {processor.py:840} INFO - DAG(s) 'subscriptions_elt_daily' retrieved from /opt/airflow/dags/subscriptions_elt_daily.py
+[2025-12-16T16:03:47.733+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:47.732+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:03:47.761+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:47.761+0000] {dag.py:3947} INFO - Setting next_dagrun for subscriptions_elt_daily to 2025-12-16 00:00:00+00:00, run_after=2025-12-17 00:00:00+00:00
+[2025-12-16T16:03:47.786+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/subscriptions_elt_daily.py took 0.137 seconds

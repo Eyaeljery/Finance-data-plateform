@@ -23,3 +23,94 @@
 [2025-12-16T15:57:18.271+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:57:18.271+0000] {dag.py:3089} INFO - Sync 1 DAGs
 [2025-12-16T15:57:18.290+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:57:18.290+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
 [2025-12-16T15:57:18.330+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.144 seconds
+[2025-12-16T15:57:48.452+0000] {processor.py:161} INFO - Started process (PID=214) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:57:48.454+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T15:57:48.456+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:57:48.455+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:57:48.477+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:57:48.520+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:57:48.520+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T15:57:48.538+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:57:48.538+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T15:57:48.567+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.121 seconds
+[2025-12-16T15:58:18.852+0000] {processor.py:161} INFO - Started process (PID=224) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:58:18.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T15:58:18.855+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:58:18.855+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:58:18.876+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:58:18.915+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:58:18.915+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T15:58:18.933+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:58:18.932+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T15:58:18.973+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.128 seconds
+[2025-12-16T15:58:49.233+0000] {processor.py:161} INFO - Started process (PID=234) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:58:49.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T15:58:49.236+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:58:49.236+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:58:49.259+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:58:49.299+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:58:49.299+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T15:58:49.316+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:58:49.316+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T15:58:49.351+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.125 seconds
+[2025-12-16T15:59:19.623+0000] {processor.py:161} INFO - Started process (PID=244) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:59:19.625+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T15:59:19.627+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:59:19.627+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:59:19.648+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:59:19.684+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:59:19.684+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T15:59:19.700+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:59:19.700+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T15:59:19.739+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.123 seconds
+[2025-12-16T15:59:50.013+0000] {processor.py:161} INFO - Started process (PID=254) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:59:50.015+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T15:59:50.017+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:59:50.017+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:59:50.040+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T15:59:50.083+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:59:50.082+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T15:59:50.100+0000] {logging_mixin.py:188} INFO - [2025-12-16T15:59:50.099+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T15:59:50.139+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.132 seconds
+[2025-12-16T16:00:14.201+0000] {processor.py:161} INFO - Started process (PID=175) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:00:14.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T16:00:14.205+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.205+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:00:14.237+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:00:14.295+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.295+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:00:14.309+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:14.308+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T16:00:14.337+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.142 seconds
+[2025-12-16T16:00:44.820+0000] {processor.py:161} INFO - Started process (PID=190) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:00:44.821+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T16:00:44.825+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:44.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:00:44.853+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:00:44.894+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:44.894+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:00:44.914+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:00:44.913+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T16:00:44.945+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.133 seconds
+[2025-12-16T16:01:15.278+0000] {processor.py:161} INFO - Started process (PID=217) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:01:15.279+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T16:01:15.281+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:15.281+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:01:15.303+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:01:15.337+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:15.337+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:01:15.356+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:15.356+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T16:01:15.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.114 seconds
+[2025-12-16T16:01:45.793+0000] {processor.py:161} INFO - Started process (PID=232) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:01:45.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T16:01:45.797+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:45.797+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:01:45.850+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:01:45.934+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:45.934+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:01:45.958+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:01:45.957+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T16:01:45.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.210 seconds
+[2025-12-16T16:02:16.332+0000] {processor.py:161} INFO - Started process (PID=247) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:02:16.333+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T16:02:16.335+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:16.335+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:02:16.357+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:02:16.399+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:16.399+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:02:16.415+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:16.415+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T16:02:16.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.130 seconds
+[2025-12-16T16:02:46.768+0000] {processor.py:161} INFO - Started process (PID=262) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:02:46.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T16:02:46.770+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:46.770+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:02:46.792+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:02:46.834+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:46.834+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:02:46.850+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:02:46.850+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T16:02:46.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.127 seconds
+[2025-12-16T16:03:17.232+0000] {processor.py:161} INFO - Started process (PID=277) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:03:17.233+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T16:03:17.236+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:17.235+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:03:17.258+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:03:17.294+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:17.294+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:03:17.309+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:17.309+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T16:03:17.348+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.123 seconds
+[2025-12-16T16:03:47.667+0000] {processor.py:161} INFO - Started process (PID=292) to work on /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:03:47.668+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/plans_elt_daily.py for tasks to queue
+[2025-12-16T16:03:47.670+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:47.669+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:03:47.698+0000] {processor.py:840} INFO - DAG(s) 'plans_elt_daily' retrieved from /opt/airflow/dags/plans_elt_daily.py
+[2025-12-16T16:03:47.740+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:47.740+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-12-16T16:03:47.758+0000] {logging_mixin.py:188} INFO - [2025-12-16T16:03:47.757+0000] {dag.py:3947} INFO - Setting next_dagrun for plans_elt_daily to None, run_after=None
+[2025-12-16T16:03:47.783+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/plans_elt_daily.py took 0.123 seconds

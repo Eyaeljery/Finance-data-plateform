@@ -1,0 +1,22 @@
+[2025-12-16T16:00:47.729+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-12-16T16:00:47.773+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: subscriptions_elt_daily.load_subscriptions manual__2025-12-16T16:00:44.712070+00:00 [queued]>
+[2025-12-16T16:00:47.784+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: subscriptions_elt_daily.load_subscriptions manual__2025-12-16T16:00:44.712070+00:00 [queued]>
+[2025-12-16T16:00:47.786+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-12-16T16:00:47.803+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): load_subscriptions> on 2025-12-16 16:00:44.712070+00:00
+[2025-12-16T16:00:47.816+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:62 DeprecationWarning: This process (pid=205) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-12-16T16:00:47.814+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'subscriptions_elt_daily', 'load_subscriptions', 'manual__2025-12-16T16:00:44.712070+00:00', '--job-id', '55', '--raw', '--subdir', 'DAGS_FOLDER/subscriptions_elt_daily.py', '--cfg-path', '/tmp/tmpv1oas2c3']
+[2025-12-16T16:00:47.818+0000] {standard_task_runner.py:64} INFO - Started process 206 to run task
+[2025-12-16T16:00:47.818+0000] {standard_task_runner.py:91} INFO - Job 55: Subtask load_subscriptions
+[2025-12-16T16:00:47.899+0000] {task_command.py:426} INFO - Running <TaskInstance: subscriptions_elt_daily.load_subscriptions manual__2025-12-16T16:00:44.712070+00:00 [running]> on host be068e76f4a7
+[2025-12-16T16:00:48.013+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='subscriptions_elt_daily' AIRFLOW_CTX_TASK_ID='load_subscriptions' AIRFLOW_CTX_EXECUTION_DATE='2025-12-16T16:00:44.712070+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-12-16T16:00:44.712070+00:00'
+[2025-12-16T16:00:48.016+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-12-16T16:00:48.034+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-12-16T16:00:48.036+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python /opt/***/scripts/load_subscriptions.py --ds 2025-12-16']
+[2025-12-16T16:00:48.052+0000] {subprocess.py:86} INFO - Output:
+[2025-12-16T16:00:48.378+0000] {subprocess.py:93} INFO - [load_subscriptions] ds=2025-12-16 inserted=8
+[2025-12-16T16:00:48.391+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-12-16T16:00:48.392+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-12-16T16:00:48.425+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=subscriptions_elt_daily, task_id=load_subscriptions, run_id=manual__2025-12-16T16:00:44.712070+00:00, execution_date=20251216T160044, start_date=20251216T160047, end_date=20251216T160048
+[2025-12-16T16:00:48.475+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-12-16T16:00:48.495+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-12-16T16:00:48.498+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

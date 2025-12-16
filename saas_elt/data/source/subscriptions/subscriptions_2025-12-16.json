@@ -1,0 +1,66 @@
+[
+  {
+    "subscription_id": 20251216000,
+    "user_id": 2,
+    "plan_id": 2,
+    "status": "active",
+    "started_at": "2025-12-16T00:00:00+00:00",
+    "canceled_at": null
+  },
+  {
+    "subscription_id": 20251216001,
+    "user_id": 3,
+    "plan_id": 2,
+    "status": "active",
+    "started_at": "2025-12-16T00:00:00+00:00",
+    "canceled_at": null
+  },
+  {
+    "subscription_id": 20251216002,
+    "user_id": 7,
+    "plan_id": 3,
+    "status": "canceled",
+    "started_at": "2025-12-16T00:00:00+00:00",
+    "canceled_at": "2025-12-16T00:00:00+00:00"
+  },
+  {
+    "subscription_id": 20251216003,
+    "user_id": 8,
+    "plan_id": 1,
+    "status": "active",
+    "started_at": "2025-12-16T00:00:00+00:00",
+    "canceled_at": null
+  },
+  {
+    "subscription_id": 20251216004,
+    "user_id": 9,
+    "plan_id": 2,
+    "status": "canceled",
+    "started_at": "2025-12-16T00:00:00+00:00",
+    "canceled_at": "2025-12-16T00:00:00+00:00"
+  },
+  {
+    "subscription_id": 20251216005,
+    "user_id": 12,
+    "plan_id": 1,
+    "status": "active",
+    "started_at": "2025-12-16T00:00:00+00:00",
+    "canceled_at": null
+  },
+  {
+    "subscription_id": 20251216006,
+    "user_id": 13,
+    "plan_id": 2,
+    "status": "active",
+    "started_at": "2025-12-16T00:00:00+00:00",
+    "canceled_at": null
+  },
+  {
+    "subscription_id": 20251216007,
+    "user_id": 14,
+    "plan_id": 3,
+    "status": "canceled",
+    "started_at": "2025-12-16T00:00:00+00:00",
+    "canceled_at": "2025-12-16T00:00:00+00:00"
+  }
+]
